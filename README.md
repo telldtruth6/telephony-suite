@@ -17,7 +17,7 @@ apt update && apt install -y git docker.io docker-compose
 ### 3. Clone the Project
 
 ```bash
-git clone https://github.com/yourusername/telephony-suite.git
+git clone https://github.com/telldtruth6/telephony-suite.git
 cd telephony-suite
 ```
 
